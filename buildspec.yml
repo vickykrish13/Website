@@ -18,5 +18,4 @@ phases:
             - echo "we are in the post build phase"
 artifacts:
   files:
-    - 'index.html'
-  name: index.html            
+    - 'index.html'            
