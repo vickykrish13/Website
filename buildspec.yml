@@ -18,4 +18,5 @@ phases:
             - echo "we are in the post build phase"
 artifacts:
   files:
-    - 'index.html'            
+    - 'index.html'
+  discard-paths: yes            
